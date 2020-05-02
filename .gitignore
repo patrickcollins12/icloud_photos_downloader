@@ -1,7 +1,6 @@
 build/
 dist/
 icloudpd.egg-info
-cron_script.sh
 Photos/
 .vscode
 __pycache__
@@ -11,3 +10,5 @@ __pycache__
 .idea
 .coverage
 htmlcov
+*.log*
+venv
