@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Starting processing..."
+printf "\n\nStarting processing...\n"
 date
 
 # Make sure it's not already running
