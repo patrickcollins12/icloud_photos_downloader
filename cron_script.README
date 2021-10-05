@@ -1,0 +1,2 @@
+sudo newsyslog -F -f /etc/newsyslog.d/icloud_downloader.conf
+
